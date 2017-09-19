@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SurfPro Score Card</string>
+    <string name="competitor1_name">Competitor #1</string>
+    <string name="competitor2_name">Competitor #2</string>
+    <string name="total_name">Total Score</string>
+    <string name="ten_name">\\10</string>
+    <string name="zero_name">0</string>
+    <string name="difficulty_button">+1 Difficulty</string>
+    <string name="innovation_button">+1 Innovation</string>
+    <string name="combinations_button">+1 Combinations</string>
+    <string name="variety_button">+1 Variety</string>
+    <string name="speed_button">+1 Speed, Power &amp; Flow</string>
+    <string name="reset_name">RESET</string>
+</resources>
