@@ -1,5 +1,6 @@
 # nano
 
+For build and release testing
+
 ScoreKeeper app
 
-Android Surf Contest Score Card app.
