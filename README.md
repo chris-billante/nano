@@ -1,14 +1,7 @@
 # nano
 
-
 ## Test App for build and release 
 
+For build and release testing of tests
 
-
-
-For build and release testing
-
-ScoreKeeper app
-
-
-
+ScoreKeeper app, for those who keep score
